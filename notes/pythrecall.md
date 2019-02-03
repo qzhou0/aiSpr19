@@ -5,10 +5,11 @@
 
 `dir()` -- stuff in library
 
+## Speed
 `list.append()` faster than `list+=`
 `stuff in set` faster than `stuff in list`
 
-## classes
+## Classes
 
 ```python 
 
@@ -26,7 +27,7 @@ class NAME:
       
 """-----------------------------------------------------"""
 
-Frederick = NAME(stuff1,stuff2,stuff3)
+Frederick = NAME(stuff1,stuff2,stuff3)#reference/pointer
 Frederick.fxn(nonself)
 Frederick.stuff=asda
 Frederick.newstuff=new
