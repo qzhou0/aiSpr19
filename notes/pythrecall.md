@@ -7,7 +7,7 @@
 
 ## Libraries
 
-`dir()` -- stuff in library
+`dir(lib)` -- stuff in library
 
 ## Speed
 `list.append()` faster than `list+=`
