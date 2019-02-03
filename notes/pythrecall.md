@@ -16,7 +16,7 @@
 
 ## List Comprehensions
 
-`range(n)`-->0-n
+`range(n)`-->`range(0,n)` (iterable?)
 
 `[(expression w/ x) for x in it if (condition for x)]`
 
